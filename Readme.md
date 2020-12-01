@@ -1,7 +1,7 @@
 # Проект «Киноман» [![Check status][check-image]][check-url]
 
 * Студент: [Антонина Максимец](https://up.htmlacademy.ru/ecmascript/13/user/982097).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Глущенко](https://up.htmlacademy.ru/ecmascript/13/user/305355).
 
 ---
 
